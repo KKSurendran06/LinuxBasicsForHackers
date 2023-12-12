@@ -1,4 +1,4 @@
-# OverView - 
+# OverView and Solutions - 
 * `ls` - lists the contents in the working directory
 * `ls-l` - lists the contents in the working directory along with additional details
 * `ls-la` - used to list the hidden files in the working directory
